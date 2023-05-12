@@ -1,5 +1,3 @@
-let color = "black";
-
 document.addEventListener("DOMContentLoaded", function () {
     createGrid(16); //default size of the grid
     let generateButton = document.querySelector("#generateButton");
@@ -50,19 +48,19 @@ function clearGrid() {
 
 
 function getSize() {
-    const inputNumber = document.getElementById("inputNumber");
-    const message = document.getElementById("message");
-    const numberValue = inputNumber.value;
+    let inputNumber = document.getElementById("inputNumber");
+    let message = document.getElementById("message");
+    let numberValue = inputNumber.value;
 
-    if (numberValue == "") {
-        message.innerHTML = "Size of the grid cannot be zero";
+    if (numberValue === "") {
+        message.innerHTML = "Size of the grid cannot be zero or empty";
         message.style.textAlign = "center";
     } else if (numberValue <= 0 || numberValue > 100 || isNaN(numberValue)) {
         message.innerHTML =
             "Please provide a number between 1-100 and must be a numeric value";
         message.style.textAlign = "center";
     } else {
-        message.innerHTML = "Hover the grid!";
+        message.innerHTML = "Pick a color and Hover the grid!";
         message.style.textAlign = "center";
         return numberValue; // Return the valid input value
     }
