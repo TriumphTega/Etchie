@@ -14,15 +14,14 @@ During the development process, I encountered several challenges and struggled w
 Working on this Etch-a-Sketch project has been a valuable learning experience for me. I gained practical knowledge in:
 
 - **DOM manipulation:** Modifying and updating the HTML structure dynamically using JavaScript.
-
 - **Event handling with addEventListener:** Attaching event listeners to elements and responding to user actions.
-
 - **Function implementation and organization:** Breaking down tasks into reusable functions for improved code structure.
-
 - **Problem-solving and debugging:** Enhancing troubleshooting skills to identify and resolve issues efficiently.
 
 ---
 
 ## Conclusion
 Developing the Etch-a-Sketch project was an enriching experience that allowed me to apply my HTML, CSS, and JavaScript skills. The project helped me gain a deeper understanding of event handling,addEventlistener, functions, and especially DOM manipulation. Despite the struggles and challenges, I successfully created a functional and nostalgic recreation of Etch-a-Sketch toy.
+
+
 
