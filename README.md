@@ -20,6 +20,23 @@ Working on this Etch-a-Sketch project has been a valuable learning experience fo
 
 ---
 
+---
+## Installation
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
+
+2. **Navigate to the project directory:**
+   
+    ```bash
+    cd Project-Etch-A-Sketch 
+3. **Open the calculator:**
+     ```
+     Locate the HTML file in the project directory 
+    ```
+---
+
 ## Conclusion
 Developing the Etch-a-Sketch project was an enriching experience that allowed me to apply my HTML, CSS, and JavaScript skills. The project helped me gain a deeper understanding of event handling,addEventlistener, functions, and especially DOM manipulation. Despite the struggles and challenges, I successfully created a functional and nostalgic recreation of Etch-a-Sketch toy.
 
