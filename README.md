@@ -25,7 +25,6 @@ Working on this Etch-a-Sketch project has been a valuable learning experience fo
 
 ---
 
----
 ## Installation
 1. **Clone the repository:**
 
@@ -36,7 +35,7 @@ Working on this Etch-a-Sketch project has been a valuable learning experience fo
    
     ```bash
     cd Project-Etch-A-Sketch 
-3. **Open the calculator:**
+3. **Open the project:**
      ```
      Locate the HTML file in the project directory 
     ```
