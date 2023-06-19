@@ -1,4 +1,7 @@
 # Project: Etch-a-Sketch 🌈
+
+![Etch a Sketch](etch-a-sketch.png)
+
 The Etch-a-Sketch project was developed as part of my learning journey with the help and guidance of TheOdinProject. TheOdinProject is a comprehensive curriculum that offers practical hands-on projects to help individuals learn web development.
 
 The goal of this project was to recreate the nostalgic experience of drawing on an Etch-a-Sketch using modern web technologies. By using HTML, CSS, and JavaScript, I was able to create a digital version of the toy that runs directly in a web browser.
